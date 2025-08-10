@@ -3,7 +3,7 @@ import * as THREE from 'three';
 import * as sushi from 'milsushi2'
 import { GUI } from 'dat.gui'
 // import Stats from 'three/examples/jsm/libs/stats.module.js'; 
-import experiment_data from './demo_dataset.json' assert {type: 'json'};
+import experiment_data from '/demo/demo_dataset.json' with {type: 'json'};
 
 
 // Define Variables
